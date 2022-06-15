@@ -1,0 +1,7 @@
+{
+    "name": "venbhas/reserve-namespace",
+    "description": "This repository is created to reserve the namespace in packagist.org",
+    "require": {
+        "php": ">=8.1"
+    }
+}
